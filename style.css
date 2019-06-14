@@ -1,0 +1,36 @@
+h1
+{
+color:black;
+background-color:lightgrey;
+font-size:250%;
+font-weight:bold;
+}
+h2
+{
+color:blue;
+background-color:lightgreen;
+padding:5px;
+}
+p
+{
+colour:navy;
+padding:0.5px;
+}
+img
+{border-style:solid;border-width:2px;border-color: black;
+}
+
+
+ul
+{
+padding:10px;
+}
+body
+{
+border:1px black;
+margin:25px;
+}
+h4
+{
+background-color:lightblue;
+}
